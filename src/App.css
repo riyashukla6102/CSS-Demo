@@ -95,7 +95,7 @@ body{
   margin-top: 80px;
   margin-left: 50px;
   padding: 20px;
-  grid-template-columns: 46% 54%;
+  grid-template-columns: 35rem auto;
   grid-template-rows: 600px auto;
   
 }
@@ -168,7 +168,6 @@ body{
   grid-column: 2/3;
   grid-row: 1/2;
   color: white;
-  
 }
 .content-card-1{
   display: grid;
@@ -180,7 +179,8 @@ body{
   border-radius: 12px;
   border: white 1px solid;
   box-shadow: 6px 4px 42px 0px rgba(0,0,0,0.2);
-  margin-left: 6rem;
+  align-self:end;
+  margin-left: 120px;
 }
 .head-content{
   display: flex;

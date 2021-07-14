@@ -91,10 +91,11 @@ body{
 .content{
   position:absolute;
   display: grid;
+  width: 100%;
   margin-top: 80px;
   margin-left: 50px;
   padding: 20px;
-  grid-template-columns: 49% 51%;
+  grid-template-columns: 46% 54%;
   grid-template-rows: 600px auto;
   
 }
@@ -167,7 +168,7 @@ body{
   grid-column: 2/3;
   grid-row: 1/2;
   color: white;
-  right:0;
+  
 }
 .content-card-1{
   display: grid;
@@ -179,8 +180,7 @@ body{
   border-radius: 12px;
   border: white 1px solid;
   box-shadow: 6px 4px 42px 0px rgba(0,0,0,0.2);
-  align-self:end;
-  margin-left: 120px;
+  margin-left: 6rem;
 }
 .head-content{
   display: flex;

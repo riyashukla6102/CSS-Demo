@@ -180,7 +180,7 @@ body{
   border: white 1px solid;
   box-shadow: 6px 4px 42px 0px rgba(0,0,0,0.2);
   align-self:end;
-  margin-left: 120px;
+  margin-left: 7.5rem;
 }
 .head-content{
   display: flex;
@@ -324,7 +324,7 @@ body{
   padding: 20px;
   box-shadow: 6px 4px 42px 0px rgba(0,0,0,0.2);
   margin-top: 50px;
-  margin-right: 100px;
+  
   
 
 }
